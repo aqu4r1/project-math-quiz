@@ -1,0 +1,25 @@
+body {
+    background-color: #c49fcc;
+}
+
+.login_div1 , .login_div2 {
+    background-color: white;
+    padding: 5px;
+    float: none;
+    border-radius: 7px;
+    width: 500px;
+    height: 200;
+}
+
+label {
+    font-size: larger;
+}
+
+button {
+    background-color: #4682B4;
+    font-size: 20px;
+    float: none;
+    text-align: center;
+    height: 35px;
+    color: white;
+}
